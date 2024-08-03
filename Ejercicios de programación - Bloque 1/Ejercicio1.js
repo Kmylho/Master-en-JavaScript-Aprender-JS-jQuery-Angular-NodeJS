@@ -1,4 +1,4 @@
-'use strick'
+'use strict'
 /*
 JS que pida dos números y nos diga cual es el mayor, el menor O si son iguales 
 */
